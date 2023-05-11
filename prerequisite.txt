@@ -1,0 +1,7 @@
+- Python
+	$ sudo yum install python3
+	*(I was working on Linux so need to install python3)
+	*If you are working on Windows, You can use editor tools which support python.
+- Editor Tool
+	Any
+	*(I used Visual Studio Code)
